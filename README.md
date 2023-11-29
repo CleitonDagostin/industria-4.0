@@ -19,13 +19,16 @@
  ## EMPRESAS QUE UTILIZAM ESTAS TECNOLOGIAS E PRODUTOS QUE FORNECEM
  ---
  > 1. **INTERNET DAS COISAS:**
+>  
 > Grandes empresas, como HUAWEI,DELL,ROLLS ROICE e BOSCH já trabalham com soluçoes de internet das coisas. Em galpoes de logistica, por exemplo, robos sao utilizados para fazer o manejo de grandes mercadorias dentro do estoque.
 
  > 2. **ROBOTICA**
+>     
 > IROBOT:
 > IROBOT atualmente é uma empresa totalmente focada em soluçoes domesticas, porem por muitos anos foi um importante desenvolvedor de tecnologia para o exercito americano, criando robos para remover minas e reconhecimento do territorio inimigo, por exemplo.
 
 > 3. **INTELIGENCIA ARTIFICIAL**
+>
 >    OpenAI:
 >  A OpenAI despontou no final do ano passado com o lançamento do ChatGPT, chatbot de IA, e do Dall-E, gerador de imagens de IA. Apartir daí, uma legiao de novas empresas surgiu e o mundo, ao que tudo indica, mudou para sempre.
 
